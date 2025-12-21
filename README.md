@@ -5,9 +5,15 @@ A basic embedded system project to control the ON/OFF cycle of a liquid mosquito
 My mini project is an automatic, time-based mosquito repellent system. In normal repellents, people often forget to switch them ON or OFF, which wastes liquid, electricity, and causes unnecessary chemical exposure. My system solves this by working only during mosquito-active hours, making it energy-efficient, safe, and convenient. It uses a microcontroller as the brain, a relay to control the repellent, and a real-time clock module to track time. The microcontroller runs a program that automatically switches the repellent ON and OFF
 
 ## 🔧 Tools Used:
-- Arduino UNO
-- Basic Electronics Components
-- Embedded C Logic
+
+* Software Tools
+
+ Arduino IDE:
+Used to write, compile, and upload the embedded C program.
+Arduino Compiler:
+Converts embedded C code into machine code.
+Embedded C Language:
+Used for programming the microcontroller.
 
 ## Components Used
 Component	Purpose
@@ -19,21 +25,9 @@ Mosquito Repellent	The device being controlled (liquid or electric)
 
 
 ## Working Flow Diagram
-Power ON
-   |
-   v
-RTC Module → Sends current time → Microcontroller
-   |                               |
-   |                               v
-   |                         Compare with mosquito-active hours
-   |                               |
-   |                     ---------------------
-   |                    |                   |
-   |          Time within active?      Time outside active?
-   |                    |                   |
-   v                    v                   v
-Microcontroller       Relay ON → Repellent ON    Relay OFF → Repellent OFF
-(Optional)            Buzzer ON                Buzzer OFF
+
+<img width="769" height="473" alt="image" src="https://github.com/user-attachments/assets/4b0bf5d2-fcf1-4aad-b585-a68c963aa1ef" />
+
 
 
 1. Power ON
