@@ -6,14 +6,14 @@ My mini project is an automatic, time-based mosquito repellent system. In normal
 
 ## 🔧 Tools Used:
 
-* Software Tools
 
- Arduino IDE:
-Used to write, compile, and upload the embedded C program.
-Arduino Compiler:
-Converts embedded C code into machine code.
-Embedded C Language:
-Used for programming the microcontroller.
+* <img width="901" height="491" alt="image" src="https://github.com/user-attachments/assets/0d5d9159-bae9-4650-85e6-b2c0ec34c882" />
+
+
+
+* <img width="921" height="273" alt="image" src="https://github.com/user-attachments/assets/ee392586-0290-40fb-adbb-d35876e50019" />
+
+
 
 ## Components Used
 Component	Purpose
