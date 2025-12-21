@@ -72,6 +72,10 @@ Relay switches the main power of mosquito repellent ON/OFF based on MCU signal.
 MCU continuously monitors time from RTC and repeats the ON/OFF process automatically without user intervention
 
 
+<img width="1138" height="619" alt="image" src="https://github.com/user-attachments/assets/1f95335c-e54e-42e3-91b2-661fae844218" />
+
+
+
 <img width="686" height="538" alt="Screenshot 2025-12-21 154326" src="https://github.com/user-attachments/assets/c9a105a4-407d-465d-b91c-83b9f29799e7" />
 
 
