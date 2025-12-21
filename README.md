@@ -1,6 +1,5 @@
-# Smart-Timer-For-Mosquito-Repellent
-A timer circuit project to save energy using embedded logic
-A basic embedded system project to control the ON/OFF cycle of a liquid mosquito repellent for energy saving.
+# 🦟⏰🤖 Smart Timer for Liquid Electronic Mosquito Repellent System ⚡🌱
+
 
 My mini project is an automatic, time-based mosquito repellent system. In normal repellents, people often forget to switch them ON or OFF, which wastes liquid, electricity, and causes unnecessary chemical exposure. My system solves this by working only during mosquito-active hours, making it energy-efficient, safe, and convenient. It uses a microcontroller as the brain, a relay to control the repellent, and a real-time clock module to track time. The microcontroller runs a program that automatically switches the repellent ON and OFF
 
