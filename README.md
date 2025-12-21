@@ -3,6 +3,10 @@
 
 My mini project is an automatic, time-based mosquito repellent system. In normal repellents, people often forget to switch them ON or OFF, which wastes liquid, electricity, and causes unnecessary chemical exposure. My system solves this by working only during mosquito-active hours, making it energy-efficient, safe, and convenient. It uses a microcontroller as the brain, a relay to control the repellent, and a real-time clock module to track time. The microcontroller runs a program that automatically switches the repellent ON and OFF
 
+
+<img width="1018" height="574" alt="image" src="https://github.com/user-attachments/assets/9ee78bc0-b97d-4476-998f-3f062ca51751" />
+
+
 ## 🔧 Tools Used:
 
 
